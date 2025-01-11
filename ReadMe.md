@@ -5,6 +5,8 @@
 ### 社工库导航站
 ###查开房纪录/同住记录/聊天记录/微信记录/银行流水/资产查询手机定位/机主寻人/调查/查资产/查婚姻/🧐只要你提供的信息正确什么都能查不要再问在不在了😎
 
+### 野马客服 [@SKA0013](https://t.me/SKA0013?start=NTgzNzg1NTEy) 
+
 ## 暗精灵社工库
 
 社工库账号：@aodbmmbot_aoaob1bot](https://t.me/@aodbmmbot_aoaob1bot?start=NTgzNzg1NTEy)

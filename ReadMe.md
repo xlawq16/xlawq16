@@ -39,6 +39,9 @@
 
 ## 客服查询 [@Data888_botbot](https://t.me/Data888_botbot?start=NTgzNzg1NTEy)
 
+# 猪八戒查档 
+[@Zonesgk_bottbot](https://t.me/Zonesgk_bottbot?start=NTgzNzg1NTEy)
+
 ## 项目注意事项
 业余时间测试与整理，根据繁忙程度及个人精力，可能不定期更新、可能停止更新，亦可能隐藏、注销该库。
 

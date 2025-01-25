@@ -42,6 +42,11 @@
 # 猪八戒查档 
 [@Zonesgk_bottbot](https://t.me/Zonesgk_bottbot?start=NTgzNzg1NTEy)
 
+# 魔女官方 
+[@pm9588_zy7777bot](https://t.me/pm9588_zy7777bot?start=NTgzNzg1NTEy)
+
+<img src="pic/bbb.png" alt="免费社工库" border="0">
+
 ## 项目注意事项
 业余时间测试与整理，根据繁忙程度及个人精力，可能不定期更新、可能停止更新，亦可能隐藏、注销该库。
 
